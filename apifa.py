@@ -12,7 +12,7 @@ def get_hello_world_and_teemo_image():
     html_content = f"""
     <html>
         <head>
-            <title>Hello World soy BRODELY</title>
+            <title>Hello World soy BRODEdwdwdwdwdwdddddddddddLY</title>
         </head>
         <body>
             <h1>Hello World</h1>
